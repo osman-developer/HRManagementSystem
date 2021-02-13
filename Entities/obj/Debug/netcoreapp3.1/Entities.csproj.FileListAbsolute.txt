@@ -1,0 +1,8 @@
+D:\Hr Manag. System\App\WebApi\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+D:\Hr Manag. System\App\WebApi\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+D:\Hr Manag. System\App\WebApi\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\Hr Manag. System\App\WebApi\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+D:\Hr Manag. System\App\WebApi\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+D:\Hr Manag. System\App\WebApi\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+D:\Hr Manag. System\App\WebApi\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+D:\Hr Manag. System\App\WebApi\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
